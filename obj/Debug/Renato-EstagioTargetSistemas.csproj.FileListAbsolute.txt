@@ -1,0 +1,8 @@
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\bin\Debug\Renato-EstagioTargetSistemas.exe.config
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\bin\Debug\Renato-EstagioTargetSistemas.exe
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\bin\Debug\Renato-EstagioTargetSistemas.pdb
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\obj\Debug\Renato-EstagioTargetSistemas.csproj.AssemblyReference.cache
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\obj\Debug\Renato-EstagioTargetSistemas.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\obj\Debug\Renato-EstagioTargetSistemas.csproj.CoreCompileInputs.cache
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\obj\Debug\Renato-EstagioTargetSistemas.exe
+D:\Projects\Renato-EstagioTargetSistemas\Renato-EstagioTargetSistemas\obj\Debug\Renato-EstagioTargetSistemas.pdb
